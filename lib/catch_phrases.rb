@@ -13,7 +13,7 @@ def link
   puts help
 end
 
-def all_phrases 
+def all_phrases
   puts mario
   puts toadstool
   puts link
